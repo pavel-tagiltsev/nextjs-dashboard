@@ -12,12 +12,11 @@
     "autoprefixer": "10.4.19",
     "bcrypt": "^5.1.1",
     "clsx": "^2.1.1",
-    "eslint-config-next": "^15.0.0-rc.0",
-    "next": "^15.0.0-rc.0",
+    "next": "^14.2.7",
     "next-auth": "^4.24.7",
     "postcss": "8.4.38",
-    "react": "^19.0.0-rc-d1afcb43-20240903",
-    "react-dom": "^19.0.0-rc-d1afcb43-20240903",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "tailwindcss": "3.4.4",
     "typescript": "5.5.2",
     "use-debounce": "^10.0.1",
@@ -26,12 +25,8 @@
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
     "@types/node": "20.14.8",
-    "@types/react": "npm:types-react@rc",
-    "@types/react-dom": "npm:types-react-dom@rc"
-  },
-  "overrides": {
-    "@types/react": "npm:types-react@rc",
-    "@types/react-dom": "npm:types-react-dom@rc"
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0"
   },
   "engines": {
     "node": ">=20.12.0"
